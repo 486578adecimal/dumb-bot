@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "gamedig": "^2.0.14",
+    "npm": "^6.9.0"
+  }
+}
